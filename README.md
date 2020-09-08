@@ -4,10 +4,9 @@ Para agregar contenido deberás solicitar acceso.
 No hay información importante en este repositorio, no tengas miedo de probar.
 
 Este repositorio tiene la siguiente estructura:
-
-  * Vegetales: Listado de vegetales con fotos. Faltan algunos? animate a contribuir.
-  * Bebidas-SA: Listado y fotos de bebidas sin alcohol.
   * Bebidas-CA: Listado y fotos de bebidas con alcohol.
+  * Bebidas-SA: Listado y fotos de bebidas sin alcohol.
+  * Vegetales: Listado de vegetales con fotos. Faltan algunos? animate a contribuir.
   * Cocktails: Recetas de tragos y cocktails.
   * Quesos: Listado de variedades de quesos con fotos.
   * Postres: Listado de postres y fotos.
