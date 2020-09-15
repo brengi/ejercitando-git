@@ -1,4 +1,4 @@
-# Repositorio de prácticas para git.
+# Repositorio de prácticas para git - parte1.
 
 Para agregar contenido deberás solicitar acceso.
 No hay información importante en este repositorio, no tengas miedo de probar.
