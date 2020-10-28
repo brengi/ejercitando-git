@@ -2,3 +2,6 @@ Manzana
 Banana
 Naranja
 Durazno
+Pera
+Granada
+
