@@ -11,7 +11,7 @@ Este repositorio tiene la siguiente estructura:
   * Quesos: Listado de variedades de quesos con fotos.
   * Postres: Listado de postres y fotos.
 
-Si subís una foto, recordá que debe ser de "liviana", no más de 350k, así el repositorio no crece demasiado.
+Si subís una foto, recordá que debe ser de "liviana", no más de 360k, así el repositorio no crece demasiado.
 
 
  
